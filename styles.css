@@ -1,0 +1,37 @@
+
+
+
+img {
+	padding-bottom: 15px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+div {
+	padding: 1em 1em 1em 1em;
+	border-style: solid;
+	border-width: thin;
+	border-color: #bdc3c7;
+	margin: auto;
+
+
+}
+
+.box1 {
+	width: 300px;
+	box-shadow: 5px 5px #ecf0f1;
+	background-color: #8787A1;
+}
+
+.box2 {
+	width: 270px;
+	background-color: #D1D2EA;
+}
+ul {
+	list-style-type: none;
+}
+
+span{
+	font-weight: bold;
+}
+
